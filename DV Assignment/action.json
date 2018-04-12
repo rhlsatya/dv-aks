@@ -1,0 +1,249 @@
+[
+{
+  "name": "Shooter",
+  "imports": ["$61000000","Rating 6","Popularity 30-40","$95 Mil Profit","124 Weeks", "2007"]
+},{
+  "name": "Deadpool",
+  "imports": ["$58000000","Rating 8","Popularity 200+","$800 Mil Profit","108 Weeks", "2016"]
+},{
+  "name": "Creed",
+  "imports": ["$37000000","Rating 7","Popularity 50-60","$200 Mil Profit","133 Weeks", "2015"]
+},{
+  "name": "South Paw",
+  "imports": ["$30000000","Rating 8","Popularity 60-70","$90 Mil Profit","123 Weeks", "2015"]
+},{
+  "name": "Die Hard",
+  "imports": ["$28000000","Rating 7","Popularity 60-70","$140 Mil Profit","131 Weeks", "1988"]
+},{
+  "name": "Warrior",
+  "imports": ["$28000000","Rating 8","Popularity 50-60","$23 Mil Profit","140 Weeks", "2011"]
+},{
+  "name": "Top Gun",
+  "imports": ["$15000000","Rating 6","Popularity 50-60","$350 Mil Profit","110 Weeks", "1986"]
+},{
+  "name": "Machete",
+  "imports": ["$20000000","Rating 4","Popularity 20-30","$30 Mil Profit","105 Weeks", "2010"]
+},{
+  "name": "Crank",
+  "imports": ["$12000000","Rating 5","Popularity 40-50","$43 Mil Profit","88 Weeks", "2006"]
+},{
+  "name": "Knight & Day",
+  "imports": ["$117000000","Rating 5","Popularity 40-50","$260 Mil Profit","109 Weeks", "2010"]
+},{
+  "name": "White House Down",
+  "imports": ["$150000000","Rating 6","Popularity 30-40","$200 Mil Profit","131 Weeks", "2013"]
+},{
+  "name": "Die Another Day",
+  "imports": ["$140000000","Rating 5","Popularity 50-60","$400 Mil Profit","133 Weeks", "2002"]
+},{
+  "name": "Casino Royale",
+  "imports": ["$150000000","Rating 7","Popularity 80-90","$600 Mil Profit","144 Weeks", "2006"]
+},{
+  "name": "The Man from UNCLE",
+  "imports": ["$75000000","Rating 7","Popularity 40-50","$100 Mil Profit","116 Weeks", "2015"]
+},{
+  "name": "Teenage Mutant Ninja Turtles",
+  "imports": ["$125000000","Rating 5","Popularity 100-200","$500 Mil Profit","101 Weeks", "2014"]
+},{
+  "name": "$150000000",
+  "imports": []
+},{
+  "name": "$140000000",
+  "imports": []
+},{
+  "name": "$20000000",
+  "imports": []
+},{
+  "name": "$75000000",
+  "imports": []
+},{
+  "name": "$61000000",
+  "imports": []
+},{
+  "name": "$58000000",
+  "imports": []
+},{
+  "name": "$37000000",
+  "imports": []
+},{
+  "name": "$30000000",
+  "imports": []
+},{
+  "name": "$28000000",
+  "imports": []
+},{
+  "name": "$12000000",
+  "imports": []
+},{
+  "name": "$15000000",
+  "imports": []
+},{
+  "name": "$117000000",
+  "imports": []
+},{
+  "name": "$125000000",
+  "imports": []
+},{
+  "name": "Rating 4",
+  "imports": []
+},{
+  "name": "Rating 5",
+  "imports": []
+},{
+  "name": "Rating 6",
+  "imports": []
+},{
+  "name": "Rating 7",
+  "imports": []
+},{
+  "name": "Rating 8",
+  "imports": []
+},{
+  "name": "Popularity 20-30",
+  "imports": []
+},{
+  "name": "Popularity 30-40",
+  "imports": []
+},{
+  "name": "Popularity 40-50",
+  "imports": []
+},{
+  "name": "Popularity 50-60",
+  "imports": []
+},{
+  "name": "Popularity 60-70",
+  "imports": []
+},{
+  "name": "Popularity 70-80",
+  "imports": []
+},{
+  "name": "Popularity 80-90",
+  "imports": []
+},{
+  "name": "Popularity 100-200",
+  "imports": []
+},{
+  "name": "Popularity 200+",
+  "imports": []
+},{
+ "name": "$200 Mil Profit",
+ "imports": []
+},{
+ "name": "$400 Mil Profit",
+ "imports": []
+},{
+ "name": "$600 Mil Profit",
+ "imports": []
+},{
+ "name": "$100 Mil Profit",
+ "imports": []
+},{
+ "name": "$95 Mil Profit",
+ "imports": []
+},{
+ "name": "$800 Mil Profit",
+ "imports": []
+},{
+ "name": "$90 Mil Profit",
+ "imports": []
+},{
+ "name": "$140 Mil Profit",
+ "imports": []
+},{
+ "name": "$23 Mil Profit",
+ "imports": []
+},{
+ "name": "$350 Mil Profit",
+ "imports": []
+},{
+ "name": "$30 Mil Profit",
+ "imports": []
+},{
+ "name": "$43 Mil Profit",
+ "imports": []
+},{
+ "name": "$260 Mil Profit",
+ "imports": []
+},{
+ "name": "$500 Mil Profit",
+ "imports": []
+},{
+ "name": "1986",
+ "imports": []
+},{
+ "name": "1988",
+ "imports": []
+},{
+ "name": "2002",
+ "imports": []
+},{
+ "name": "2006",
+ "imports": []
+},{
+ "name": "2007",
+ "imports": []
+},{
+ "name": "2010",
+ "imports": []
+},{
+ "name": "2011",
+ "imports": []
+},{
+ "name": "2013",
+ "imports": []
+},{
+ "name": "2014",
+ "imports": []
+},{
+ "name": "2015",
+ "imports": []
+},{
+ "name": "2016",
+ "imports": []
+},{
+  "name": "131 Weeks",
+  "imports": []
+},{
+  "name": "133 Weeks",
+  "imports": []
+},{
+  "name": "144 Weeks",
+  "imports": []
+},{
+  "name": "116 Weeks",
+  "imports": []
+},{
+  "name": "124 Weeks",
+  "imports": []
+},{
+  "name": "108 Weeks",
+  "imports": []
+},{
+  "name": "133 Weeks",
+  "imports": []
+},{
+  "name": "123 Weeks",
+  "imports": []
+},{
+  "name": "131 Weeks",
+  "imports": []
+},{
+  "name": "140 Weeks",
+  "imports": []
+},{
+  "name": "110 Weeks",
+  "imports": []
+},{
+  "name": "105 Weeks",
+  "imports": []
+},{
+  "name": "88 Weeks",
+  "imports": []
+},{
+  "name": "109 Weeks",
+  "imports": []
+},{
+  "name": "101 Weeks",
+  "imports": []
+}
+]

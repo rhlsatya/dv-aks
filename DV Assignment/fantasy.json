@@ -1,0 +1,159 @@
+[
+{
+  "name": "Thor",
+  "imports": ["$150000000","Rating 7","Popularity 100-200","$640 Mil Profit","116 Weeks","2013"]
+},{
+  "name": "Twilight",
+  "imports": ["$150000000","Rating 6","Popularity 100-200","$829 Mil Profit","116 Weeks","2012"]
+},{
+  "name": "Last Airbender",
+  "imports": ["$150000000","Rating 5","Popularity 30-40","$300 Mil Profit","109 Weeks","2010"]
+},{
+  "name": "Wrath of Titans",
+  "imports": ["$150000000","Rating 6","Popularity 40-50","$300 Mil Profit","99 Weeks","2012"]
+},{
+  "name": "Lord of the Rings 3",
+  "imports": ["$94000000","Rating 8","Popularity 100-200","$1 Bil+ Profit","201 Weeks","2003"]
+},{
+  "name": "Underworld Evolution",
+  "imports": ["$50000000","Rating 6","Popularity 40-50","$111 Mil Profit","109 Weeks","2006"]
+},{
+  "name": "Sorcerer's Apprentice",
+  "imports": ["$150000000","Rating 6","Popularity 30-40","$215 Mil Profit","109 Weeks","2010"]
+},{
+  "name": "Pirates of the Caribbean: At World's End",
+  "imports": ["$300000000","Rating 7","Popularity 100-200","$1 Bil+ Profit","169 Weeks","2007"]
+},{
+  "name": "Harry Potter and the Half-Blood Prince",
+  "imports": ["$300000000","Rating 7","Popularity 100-200","$1 Bil+ Profit","150 Weeks","2009"]
+},{
+  "name": "The Chronicles of Narnia: Prince Caspian",
+  "imports": ["$225000000","Rating 6","Popularity 50-60","$400 Mil Profit","150 Weeks","2008"]
+},{
+  "name": "The Hobbit: The Battle of the Five Armies",
+  "imports": ["$225000000","Rating 7","Popularity 100-200","$1 Bil+ Profit","150 Weeks","2014"]
+},{
+  "name": "Prince of Persia: The Sands of Time",
+  "imports": ["$150000000","Rating 5","Popularity 60-70","$400 Mil Profit","116 Weeks","2010"]
+},{
+  "name": "The Mummy: Tomb of the Dragon Emperor",
+  "imports": ["$150000000","Rating 5","Popularity 60-70","$400 Mil Profit","116 Weeks","2008"]
+},{
+  "name": "Percy Jackson & the Olympians: The Lightning Thief",
+  "imports": ["$94000000","Rating 6","Popularity 60-70","$215 Mil Profit","116 Weeks","2010"]
+},{
+  "name": "Night at the Museum: Battle of the Smithsonian",
+  "imports": ["$150000000","Rating 6","Popularity 80-90","$400 Mil Profit","109 Weeks","2009"]
+},{
+  "name": "$50000000",
+  "imports": []
+},{
+  "name": "$300000000",
+  "imports": []
+},{
+  "name": "$225000000",
+  "imports": []
+},{
+  "name": "$150000000",
+  "imports": []
+},{
+  "name": "$94000000",
+  "imports": []
+},{
+  "name": "Rating 5",
+  "imports": []
+},{
+  "name": "Rating 6",
+  "imports": []
+},{
+  "name": "Rating 7",
+  "imports": []
+},{
+  "name": "Rating 8",
+  "imports": []
+},{
+  "name": "Popularity 30-40",
+  "imports": []
+},{
+  "name": "Popularity 40-50",
+  "imports": []
+},{
+  "name": "Popularity 50-60",
+  "imports": []
+},{
+  "name": "Popularity 60-70",
+  "imports": []
+},{
+  "name": "Popularity 80-90",
+  "imports": []
+},{
+  "name": "Popularity 100-200",
+  "imports": []
+},{
+  "name": "$111 Mil Profit",
+  "imports": []
+},{
+  "name": "$215 Mil Profit",
+  "imports": []
+},{
+  "name": "$300 Mil Profit",
+  "imports": []
+},{
+  "name": "$400 Mil Profit",
+  "imports": []
+},{
+  "name": "$640 Mil Profit",
+  "imports": []
+},{
+  "name": "$829 Mil Profit",
+  "imports": []
+},{
+  "name": "$1 Bil+ Profit",
+  "imports": []
+},{
+  "name": "2003",
+  "imports": []
+},{
+  "name": "2006",
+  "imports": []
+},{
+  "name": "2007",
+  "imports": []
+},{
+  "name": "2008",
+  "imports": []
+},{
+  "name": "2009",
+  "imports": []
+},{
+  "name": "2010",
+  "imports": []
+},{
+  "name": "2012",
+  "imports": []
+},{
+  "name": "2013",
+  "imports": []
+},{
+  "name": "2014",
+  "imports": []
+},{
+  "name": "99 Weeks",
+  "imports": []
+},{
+  "name": "109 Weeks",
+  "imports": []
+},{
+  "name": "201 Weeks",
+  "imports": []
+},{
+  "name": "169 Weeks",
+  "imports": []
+},{
+  "name": "116 Weeks",
+  "imports": []
+},{
+  "name": "150 Weeks",
+  "imports": []
+}
+]

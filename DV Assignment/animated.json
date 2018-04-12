@@ -1,0 +1,195 @@
+[
+{
+  "name": "WALL-E",
+  "imports": ["$180000000","Rating 8","Popularity 60-70","$500 Mil Profit","98 Weeks","2008"]
+},{
+  "name": "ICE AGE",
+  "imports": ["$59000000","Rating 7","Popularity 90-100","$400 Mil Profit","81 Weeks", "2002"]
+},{
+  "name": "Minions",
+  "imports": ["$73000000","Rating 4","Popularity 500+","$1 Bil+ Profit","90 Weeks", "2015"]
+},{
+  "name": "Inside Out",
+  "imports": ["$175000000","Rating 8","Popularity 100-200","$850 Mil Profit","93 Weeks", "2015"]
+},{
+  "name": "Toy Story 3",
+  "imports": ["$200000000","Rating 7","Popularity 50-60","$1 Bil+ Profit","102 Weeks","2010"]
+},{
+  "name": "Ratatouille",
+  "imports": ["$150000000","Rating 7","Popularity 60-70","$600 Mil Profit","111 Weeks", "2007"]
+},{
+  "name": "Despicable Me",
+  "imports": ["$69000000","Rating 7","Popularity 100-200","$550 Mil Profit","95 Weeks", "2010"]
+},{
+  "name": "Kung Fu Panda 3",
+  "imports": ["$145000000","Rating 6","Popularity 50-60","$500 Mil Profit","95 Weeks", "2016"]
+},{
+  "name": "Wreck It Ralph",
+  "imports": ["$165000000","Rating 7","Popularity 60-70","$500 Mil Profit","108 Weeks", "2012"]
+},{
+  "name": "Penguins Of Madagascar",
+  "imports": ["$132000000","Rating 6","Popularity 80-90","$350 Mil Profit","93 Weeks", "2014"]
+},{
+  "name": "The Angry Birds Movie",
+  "imports": ["$73000000","Rating 5","Popularity 40-50","$350 Mil Profit","98 Weeks", "2016"]
+},{
+  "name": "How To Train Your Dragon",
+  "imports": ["$165000000","Rating 9","Popularity 60-70","$500 Mil Profit","98 Weeks", "2010"]
+},{
+  "name": "The Adventures of TinTin",
+  "imports": ["$132000000","Rating 5","Popularity 80-90","$350 Mil Profit","108 Weeks", "2011"]
+},{
+  "name": "Cloudy with a Chance of Meatballs",
+  "imports": ["$100000000","Rating 6","Popularity 40-50","$250 Mil Profit","90 Weeks", "2009"]
+},{
+  "name": "$200000000",
+  "imports": []
+},{
+  "name": "$180000000",
+  "imports": []
+},{
+  "name": "$175000000",
+  "imports": []
+},{
+  "name": "$165000000",
+  "imports": []
+},{
+  "name": "$150000000",
+  "imports": []
+},{
+  "name": "$145000000",
+  "imports": []
+},{
+  "name": "$132000000",
+  "imports": []
+},{
+  "name": "$100000000",
+  "imports": []
+},{
+  "name": "$73000000",
+  "imports": []
+},{
+  "name": "$69000000",
+  "imports": []
+},{
+  "name": "$59000000",
+  "imports": []
+},{
+  "name": "Rating 4",
+  "imports": []
+},{
+  "name": "Rating 5",
+  "imports": []
+},{
+  "name": "Rating 6",
+  "imports": []
+},{
+  "name": "Rating 7",
+  "imports": []
+},{
+  "name": "Rating 8",
+  "imports": []
+},{
+  "name": "Rating 9",
+  "imports": []
+},{
+  "name": "Popularity 40-50",
+  "imports": []
+},{
+  "name": "Popularity 50-60",
+  "imports": []
+},{
+  "name": "Popularity 60-70",
+  "imports": []
+},{
+  "name": "Popularity 80-90",
+  "imports": []
+},{
+  "name": "Popularity 90-100",
+  "imports": []
+},{
+  "name": "Popularity 100-200",
+  "imports": []
+},{
+  "name": "Popularity 500+",
+  "imports": []
+},{
+ "name": "$1 Bil+ Profit",
+ "imports": []
+},{
+ "name": "$250 Mil Profit",
+ "imports": []
+},{
+ "name": "$350 Mil Profit",
+ "imports": []
+},{
+ "name": "$400 Mil Profit",
+ "imports": []
+},{
+ "name": "$500 Mil Profit",
+ "imports": []
+},{
+ "name": "$550 Mil Profit",
+ "imports": []
+},{
+ "name": "$600 Mil Profit",
+ "imports": []
+},{
+ "name": "$850 Mil Profit",
+ "imports": []
+},{
+  "name": "111 Weeks",
+  "imports": []
+},{
+  "name": "108 Weeks",
+  "imports": []
+},{
+  "name": "102 Weeks",
+  "imports": []
+},{
+  "name": "98 Weeks",
+  "imports": []
+},{
+  "name": "95 Weeks",
+  "imports": []
+},{
+  "name": "93 Weeks",
+  "imports": []
+},{
+  "name": "90 Weeks",
+  "imports": []
+},{
+  "name": "81 Weeks",
+  "imports": []
+},{
+ "name": "2016",
+ "imports": []
+},{
+ "name": "2015",
+ "imports": []
+},{
+ "name": "2014",
+ "imports": []
+},{
+ "name": "2012",
+ "imports": []
+},{
+ "name": "2011",
+ "imports": []
+},{
+ "name": "2010",
+ "imports": []
+},{
+ "name": "2009",
+ "imports": []
+},{
+ "name": "2008",
+ "imports": []
+},{
+ "name": "2007",
+ "imports": []
+},{
+ "name": "2002",
+ "imports": []
+}
+]

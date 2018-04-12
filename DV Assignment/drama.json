@@ -1,0 +1,186 @@
+[
+{
+  "name": "Hugo",
+  "imports": ["$170000000","Rating 7","Popularity 30-40","$180 Mil Profit","120 Weeks","2011"]
+},{
+  "name": "Moneyball",
+  "imports": ["$55000000","Rating 7","Popularity 40-50","$110 Mil Profit","133 Weeks","2011"]
+},{
+  "name": "Argo",
+  "imports": ["$55000000","Rating 7","Popularity 60-70","$250 Mil Profit","120 Weeks","2012"]
+},{
+  "name": "8 Mile",
+  "imports": ["$40000000","Rating 7","Popularity 30-40","$200 Mil Profit","110 Weeks","2002"]
+},{
+  "name": "Social Network",
+  "imports": ["$40000000","Rating 7","Popularity 60-70","$200 Mil Profit","120 Weeks","2010"]
+},{
+  "name": "The Walk",
+  "imports": ["$35000000","Rating 7","Popularity 30-40","$61 Mil Profit","120 Weeks","2015"]
+},{
+  "name": "Million Dollar Baby",
+  "imports": ["$30000000","Rating 8","Popularity 70-80","$200 Mil Profit","133 Weeks","2004"]
+},{
+  "name": "Birdman",
+  "imports": ["$18000000","Rating 7","Popularity 80-90","$110 Mil Profit","120 Weeks","2014"]
+},{
+  "name": "The Great Gatsby",
+  "imports": ["$105000000","Rating 7","Popularity 60-70","$350 Mil Profit","143 Weeks","2013"]
+},{
+  "name": "The Theory of Everything",
+  "imports": ["$15000000","Rating 9","Popularity 60-70","$120 Mil Profit","120 Weeks","2014"]
+},{
+  "name": "Step Up",
+  "imports": ["$12000000","Rating 7","Popularity 40-50","$110 Mil Profit","110 Weeks","2006"]
+},{
+  "name": "The Pursuit of Happiness",
+  "imports": ["$55000000","Rating 8","Popularity 80-90","$300 Mil Profit","120 Weeks","2006"]
+},{
+  "name": "Dallas Buyers Club",
+  "imports": ["$5000000","Rating 9","Popularity 50-60","$55 Mil Profit","120 Weeks","2013"]
+},{
+  "name": "Whiplash",
+  "imports": ["$3300000","Rating 8","Popularity 200+","$120 Mil Profit","110 Weeks","2014"]
+},{
+  "name": "Trainspotting",
+  "imports": ["$5000000","Rating 8","Popularity 60-70","$16 Mil Profit","93 Weeks","1996"]
+},{
+  "name": "$5000000",
+  "imports": []
+},{
+  "name": "$3300000",
+  "imports": []
+},{
+  "name": "$105000000",
+  "imports": []
+},{
+  "name": "$170000000",
+  "imports": []
+},{
+  "name": "$55000000",
+  "imports": []
+},{
+  "name": "$40000000",
+  "imports": []
+},{
+  "name": "$35000000",
+  "imports": []
+},{
+  "name": "$30000000",
+  "imports": []
+},{
+  "name": "$18000000",
+  "imports": []
+},{
+  "name": "$15000000",
+  "imports": []
+},{
+  "name": "$12000000",
+  "imports": []
+},{
+  "name": "Rating 7",
+  "imports": []
+},{
+  "name": "Rating 8",
+  "imports": []
+},{
+  "name": "Rating 9",
+  "imports": []
+},{
+  "name": "Popularity 70-80",
+  "imports": []
+},{
+  "name": "Popularity 80-90",
+  "imports": []
+},{
+  "name": "Popularity 60-70",
+  "imports": []
+},{
+  "name": "Popularity 30-40",
+  "imports": []
+},{
+  "name": "Popularity 40-50",
+  "imports": []
+},{
+  "name": "Popularity 50-60",
+  "imports": []
+},{
+  "name": "Popularity 200+",
+  "imports": []
+},{
+  "name": "$16 Mil Profit",
+  "imports": []
+},{
+  "name": "$55 Mil Profit",
+  "imports": []
+},{
+  "name": "$61 Mil Profit",
+  "imports": []
+},{
+  "name": "$120 Mil Profit",
+  "imports": []
+},{
+  "name": "$110 Mil Profit",
+  "imports": []
+},{
+  "name": "$180 Mil Profit",
+  "imports": []
+},{
+  "name": "$200 Mil Profit",
+  "imports": []
+},{
+  "name": "$250 Mil Profit",
+  "imports": []
+},{
+  "name": "$300 Mil Profit",
+  "imports": []
+},{
+  "name": "$350 Mil Profit",
+  "imports": []
+},{
+  "name": "2002",
+  "imports": []
+},{
+  "name": "2010",
+  "imports": []
+},{
+  "name": "2004",
+  "imports": []
+},{
+  "name": "2006",
+  "imports": []
+},{
+  "name": "2011",
+  "imports": []
+},{
+  "name": "2012",
+  "imports": []
+},{
+  "name": "2013",
+  "imports": []
+},{
+  "name": "2014",
+  "imports": []
+},{
+  "name": "2015",
+  "imports": []
+},{
+  "name": "1996",
+  "imports": []
+},{
+  "name": "93 Weeks",
+  "imports": []
+},{
+  "name": "143 Weeks",
+  "imports": []
+},{
+  "name": "120 Weeks",
+  "imports": []
+},{
+  "name": "133 Weeks",
+  "imports": []
+},{
+  "name": "110 Weeks",
+  "imports": []
+}
+]

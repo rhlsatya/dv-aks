@@ -1,0 +1,180 @@
+[
+{
+  "name": "Saw",
+  "imports": ["$1200000","Rating 7","Popularity 60-70","$100 Mil Profit","101 Weeks","2004"]
+},{
+  "name": "Saw II",
+  "imports": ["$4000000","Rating 6","Popularity 40-50","$150 Mil Profit","92 Weeks","2005"]
+},{
+  "name": "Saw III",
+  "imports": ["$10000000","Rating 6","Popularity 30-40","$150 Mil Profit","112 Weeks","2006"]
+},{
+  "name": "It Follows",
+  "imports": ["$2000000","Rating 7","Popularity 100-200","$14 Mil Profit","92 Weeks","2016"]
+},{
+  "name": "Insidious",
+  "imports": ["$2000000","Rating 7","Popularity 50-60","$100 Mil Profit","101 Weeks","2016"]
+},{
+  "name": "Lights Out",
+  "imports": ["$4900000","Rating 6","Popularity 40-50","$44 Mil Profit","101 Weeks","2015"]
+},{
+  "name": "Annabelle",
+  "imports": ["$6500000","Rating 6","Popularity 60-70","$250 Mil Profit","101 Weeks","2010"]
+},{
+  "name": "The Orphan",
+  "imports": ["$20000000","Rating 7","Popularity 30-40","$415 Mil Profit","123 Weeks","2009"]
+},{
+  "name": "The Conjuring",
+  "imports": ["$13000000","Rating 7","Popularity 40-50","$320 Mil Profit","112 Weeks","2013"]
+},{
+  "name": "The Conjuring 2",
+  "imports": ["$40000000","Rating 7","Popularity 60-70","$320 Mil Profit","144 Weeks","2016"]
+},{
+  "name": "The Devil's Advocate",
+  "imports": ["$57000000","Rating 7","Popularity 30-40","$150 Mil Profit","134 Weeks","1997"]
+},{
+  "name": "Dawn of the Dead",
+  "imports": ["$28000000","Rating 7","Popularity 40-50","$100 Mil Profit","101 Weeks","2004"]
+},{
+  "name": "Paranormal Activity",
+  "imports": ["$15000","Rating 6","Popularity 40-50","$150 Mil Profit","92 Weeks","2007"]
+},{
+  "name": "The Woman in Black",
+  "imports": ["$20000000","Rating 6","Popularity 40-50","$150 Mil Profit","92 Weeks","2012"]
+},{
+  "name": "The Boy",
+  "imports": ["$10000000","Rating 6","Popularity 30-40","$100 Mil Profit","101 Weeks","2016"]
+},{
+  "name": "$15000",
+  "imports": []
+},{
+  "name": "$1200000",
+  "imports": []
+},{
+  "name": "$2000000",
+  "imports": []
+},{
+  "name": "$4000000",
+  "imports": []
+},{
+  "name": "$4900000",
+  "imports": []
+},{
+  "name": "$6500000",
+  "imports": []
+},{
+  "name": "$10000000",
+  "imports": []
+},{
+  "name": "$13000000",
+  "imports": []
+},{
+  "name": "$20000000",
+  "imports": []
+},{
+  "name": "$28000000",
+  "imports": []
+},{
+  "name": "$57000000",
+  "imports": []
+},{
+  "name": "$40000000",
+  "imports": []
+},{
+  "name": "Rating 6",
+  "imports": []
+},{
+  "name": "Rating 7",
+  "imports": []
+},{
+  "name": "Popularity 30-40",
+  "imports": []
+},{
+  "name": "Popularity 40-50",
+  "imports": []
+},{
+  "name": "Popularity 50-60",
+  "imports": []
+},{
+  "name": "Popularity 60-70",
+  "imports": []
+},{
+  "name": "Popularity 100-200",
+  "imports": []
+},{
+  "name": "$14 Mil Profit",
+  "imports": []
+},{
+  "name": "$44 Mil Profit",
+  "imports": []
+},{
+  "name": "$100 Mil Profit",
+  "imports": []
+},{
+  "name": "$150 Mil Profit",
+  "imports": []
+},{
+  "name": "$250 Mil Profit",
+  "imports": []
+},{
+  "name": "$320 Mil Profit",
+  "imports": []
+},{
+  "name": "$415 Mil Profit",
+  "imports": []
+},{
+  "name": "1997",
+  "imports": []
+},{
+  "name": "2004",
+  "imports": []
+},{
+  "name": "2005",
+  "imports": []
+},{
+  "name": "2006",
+  "imports": []
+},{
+  "name": "2007",
+  "imports": []
+},{
+  "name": "2009",
+  "imports": []
+},{
+  "name": "2010",
+  "imports": []
+},{
+  "name": "2012",
+  "imports": []
+},{
+  "name": "2013",
+  "imports": []
+},{
+  "name": "2014",
+  "imports": []
+},{
+  "name": "2015",
+  "imports": []
+},{
+  "name": "2016",
+  "imports": []
+},{
+  "name": "92 Weeks",
+  "imports": []
+},{
+  "name": "101 Weeks",
+  "imports": []
+},{
+  "name": "112 Weeks",
+  "imports": []
+},{
+  "name": "123 Weeks",
+  "imports": []
+},{
+  "name": "144 Weeks",
+  "imports": []
+},{
+  "name": "134 Weeks",
+  "imports": []
+}
+]
